@@ -66,6 +66,34 @@ Both Windows Server and Windows 10 were installed on VirtualBox.
 
 Refer to this repo's structure for clear understanding of steps and verification screenshots.
 
+
+
+## 📷 Additional Practice – Group Policy Training
+
+Besides the required tasks, I also practiced more Group Policy scenarios to strengthen my skills. Below are some examples:
+
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training2.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training3.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training4.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training5.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training6.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training7.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training8.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training9.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training10.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training11.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training12.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training13.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training14.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training15.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training16.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training17.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training18.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training19.png
+https://github.com/Abdallahreda97/Domain-Setup-and-Group-Policy-Configuration/blob/main/Screenshots/gp-training20.png
+
+
 ---
 
 **Author:** Abdallah Elmohr  
